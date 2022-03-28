@@ -1,0 +1,2 @@
+Sosu/Main.java
+ Sosu.Main
